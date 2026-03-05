@@ -1,3 +1,8 @@
+# Landing Page
+<img width="1366" height="644" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/9ab56e09-c805-4a02-b801-1e2dc9637250" />
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
